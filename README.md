@@ -1,2 +1,2 @@
 # Minesweeper
-This is a web base  mini game.
+This is a web base mini game.
